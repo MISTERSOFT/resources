@@ -9,3 +9,6 @@
 
 ## Git
 - Useful cheatsheet : https://softwaredoug.com/blog/2022/11/09/idiot-proof-git-aliases.html
+
+## C# .Net
+- Good to know : https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap
