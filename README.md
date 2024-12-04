@@ -20,6 +20,7 @@
 - React components made with Shadcn & TW : https://ui.aceternity.com/
 - React components (Shadcn based) : https://magicui.design/docs
 - TW animations : https://rombo.co/tailwind/
+- List of Shadcn things : https://github.com/birobirobiro/awesome-shadcn-ui
 
 ## AI
 - Learn prompt engineering : https://learnprompting.org/docs/intro
