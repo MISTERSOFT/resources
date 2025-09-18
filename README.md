@@ -15,6 +15,7 @@
 
 ### React / NextJS / Tailwindcss
 - React components : https://ui.shadcn.com/
+- Shadcn components: https://www.shadcn.io/components
 - Shadcn old website version with a lot of use cases : https://ui-8dy8ykf4h-shadcn-pro.vercel.app/
 - Shacn more use cases :
     - https://originui.com/
