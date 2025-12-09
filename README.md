@@ -22,10 +22,12 @@
     - https://www.shadcnblocks.com/
     - Templates: https://shipixen.com/demo/landing-page-templates
     - Landing page: https://shadcn-landing-page-livid.vercel.app/
+    - https://shadcnuikit.com/
 - React components made with Shadcn & TW : https://ui.aceternity.com/
 - React components (Shadcn based) : https://magicui.design/docs
 - TW animations : https://rombo.co/tailwind/
 - List of Shadcn things : https://github.com/birobirobiro/awesome-shadcn-ui
+- Shadcn theme builder: https://tweakcn.com/
 
 ## AI
 - Learn prompt engineering : https://learnprompting.org/docs/intro
