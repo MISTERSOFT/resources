@@ -28,6 +28,7 @@
 - TW animations : https://rombo.co/tailwind/
 - List of Shadcn things : https://github.com/birobirobiro/awesome-shadcn-ui
 - Shadcn theme builder: https://tweakcn.com/
+- Morphin (React, Framer Motion, and Tailwind): https://morphin.dev/
 
 ## AI
 - Learn prompt engineering : https://learnprompting.org/docs/intro
